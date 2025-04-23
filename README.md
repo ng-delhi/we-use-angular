@@ -17,6 +17,7 @@ A community-driven directory of companies that use **Angular** in their tech sta
 Each entry includes:
 - ✅ Company Name
 - 🌍 Website
+- 🌍 Work Mode (Remote/Hybrid/On Site)
 - 📦 Product / Domain
 - 🧱 Full Tech Stack (Frontend, Backend, DB, Hosting, etc.)
 - 📍 Location (Optional)
@@ -37,6 +38,7 @@ We’d love your input! You can contribute in two ways:
 {
   "name": "Example Corp",
   "website": "https://example.com",
+  "workMode": "Remote",
   "product": "SaaS Platform for Analytics",
   "techStack": {
     "frontend": "Angular 16",
@@ -57,6 +59,7 @@ Please share:
 
 - Company Name
 - Website (if any)
+- Work Mode
 - Product (optional)
 - Full Tech Stack (Frontend + Backend + DB + Hosting, etc.)
 - Location (optional)
