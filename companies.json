@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Minoan",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://minoan.com",
+    "workMode": "OnSite"
+  },
+  {
+    "name": "Fyle",
+    "techStack": [
+      "Angular",
+      "TypeScript",
+      "AngularJS",
+      "Nx"
+    ],
+    "careerSite": "https://www.fylehq.com/company/team/join",
+    "workMode": "Remote"
+  },
+  {
+    "name": "Backbase",
+    "techStack": [
+      "Angular",
+      "TypeScript",
+      "Nx"
+    ],
+    "careerSite": "https://www.backbase.com/careers/jobs",
+    "workMode": "Hybrid"
+  },
+  {
+    "name": "Nagarro",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://www.nagarro.com/en/careers",
+    "workMode": "Hybrid / Remote"
+  },
+  {
+    "name": "NetCore",
+    "techStack": [
+      "Angular",
+      "TypeScript",
+      "PHP"
+    ],
+    "careerSite": "https://netcorecloud.com/careers-list?job_category=engineering",
+    "workMode": "Hybrid / Remote"
+  },
+  {
+    "name": "ZoomInfo",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://www.zoominfo.com/careers#jobs",
+    "workMode": "On-Site"
+  },
+  {
+    "name": "HashedIn By Deloitte",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://hashedin.com/careers/#explore-opportunities",
+    "workMode": "Hybrid"
+  },
+  {
+    "name": "Thomson Reuters",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://careers.thomsonreuters.com/us/en/search-results",
+    "workMode": "On-Site/Hybrid"
+  },
+  {
+    "name": "Roche",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://careers.roche.com/global/en/india-jobs",
+    "workMode": "On-Site/Hybrid"
+  },
+  {
+    "name": "SpotDraft",
+    "techStack": [
+      "Angular",
+      "TypeScript",
+      "Nx"
+    ],
+    "careerSite": "https://www.spotdraft.com/careers",
+    "workMode": "On-Site"
+  },
+  {
+    "name": "Siemens",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://jobs.siemens.com/careers",
+    "workMode": "On-Site"
+  },
+  {
+    "name": "Locobuzz",
+    "techStack": [
+      "Angular",
+      "TypeScript",
+      "Material",
+      "NX"
+    ],
+    "careerSite": "https://locobuzz.com/",
+    "workMode": "On-Site"
+  },
+  {
+    "name": "Simcorp",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://www.simcorp.com/about-us/career",
+    "workMode": "Hybrid"
+  },
+  {
+    "name": "CareMonitor",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://caremonitor.com.au/",
+    "workMode": "Remote"
+  },
+  {
+    "name": "Synoptek",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://careers.synoptek.com/",
+    "workMode": "Remote"
+  },
+  {
+    "name": "Ascendion",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://ascendion.com/careers/india/",
+    "workMode": "Remote"
+  },
+  {
+    "name": "Tech Holding",
+    "techStack": [
+      "Angular",
+      "TypeScript"
+    ],
+    "careerSite": "https://techholding.co/careers",
+    "workMode": "On-Site"
+  }
+]
