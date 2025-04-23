@@ -19,15 +19,11 @@ Thank you for considering contributing to the Angular Companies Directory!
 
 ```json
 {
-  "name": "Your Company Name",
-  "website": "https://yourcompany.com",
+  "name": "Example Corp",
+  "techStack": ["Angular 16", "Node.js", "PostgreSQL", "AWS"],
+  "careerSite": "https://example.com",
   "workMode": "Remote",
-  "product": "Optional short description",
-  "techStack": {
-    "frontend": "Angular",
-    "backend": "e.g. Node.js",
-    "database": "e.g. MongoDB",
-    "hosting": "e.g. Vercel"
-  },
-  "location": "City, Country (optional)"
+  "product": "SaaS Platform for Analytics",
+  "location": "San Francisco, CA"
 }
+```
