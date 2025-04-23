@@ -1,4 +1,8 @@
-# 🌐 we-use-angular - Angular Companies Directory
+
+
+# 🌐 We Use Angular
+
+![Angular Logo](./angular_logo.png)
 
 A community-driven directory of companies that use **Angular** in their tech stack.
 
