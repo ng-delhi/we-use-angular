@@ -42,6 +42,7 @@ We’d love your input! You can contribute in two ways:
   },
   "location": "San Francisco, CA"
 }
+```
 
 ### 💬 Method 2: Community Submission
 If you're not comfortable with GitHub, no worries!
