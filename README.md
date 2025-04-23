@@ -16,10 +16,10 @@ A community-driven directory of companies that use **Angular** in their tech sta
 
 Each entry includes:
 - ✅ Company Name
-- 🌍 Website
+- 🧱 Tech Stack (Frontend, Backend, DB, Hosting, etc.)
+- 🌍 Careers Site
 - 🌍 Work Mode (Remote/Hybrid/On Site)
-- 📦 Product / Domain
-- 🧱 Full Tech Stack (Frontend, Backend, DB, Hosting, etc.)
+- 📦 Product / Domain (Optional)
 - 📍 Location (Optional)
 
 ## Companies Using Angular
@@ -127,15 +127,10 @@ We’d love your input! You can contribute in two ways:
 ```json
 {
   "name": "Example Corp",
-  "website": "https://example.com",
+  "techStack": ["Angular 16", "Node.js", "PostgreSQL", "AWS"],
+  "careerSite": "https://example.com",
   "workMode": "Remote",
   "product": "SaaS Platform for Analytics",
-  "techStack": {
-    "frontend": "Angular 16",
-    "backend": "Node.js",
-    "database": "PostgreSQL",
-    "hosting": "AWS"
-  },
   "location": "San Francisco, CA"
 }
 ```
@@ -148,10 +143,10 @@ You can submit details in our community thread or comment on our LinkedIn post.
 Please share:
 
 - Company Name
+- Tech Stack (Frontend + Backend + DB + Hosting, etc.)
 - Website (if any)
 - Work Mode
 - Product (optional)
-- Full Tech Stack (Frontend + Backend + DB + Hosting, etc.)
 - Location (optional)
 
 We’ll add it for you and credit your name or social handle to the contributors list!
