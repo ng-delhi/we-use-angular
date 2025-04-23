@@ -42,3 +42,26 @@ We’d love your input! You can contribute in two ways:
   },
   "location": "San Francisco, CA"
 }
+
+### 💬 Method 2: Community Submission
+If you're not comfortable with GitHub, no worries!
+
+You can submit details in our community thread or comment on our LinkedIn post.
+
+Please share:
+
+- Company Name
+- Website (if any)
+- Product (optional)
+- Full Tech Stack (Frontend + Backend + DB + Hosting, etc.)
+- Location (optional)
+
+We’ll add it for you and credit your name or social handle to the contributors list!
+
+### 🙌 Credits
+This project is made possible by YOU — the amazing Angular community.
+
+### 💖 Contributors
+We proudly credit all community members who contribute entries, edits, or feedback.
+
+Want to see your name here? Start contributing!
