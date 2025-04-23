@@ -159,6 +159,9 @@ We’ll add it for you and credit your name or social handle to the contributors
 ### 🙌 Credits
 This project is made possible by YOU — the amazing Angular community.
 
+- https://github.com/howdysuraj
+- https://github.com/rohtashsethi
+
 ### 💖 Contributors
 We proudly credit all community members who contribute entries, edits, or feedback.
 
