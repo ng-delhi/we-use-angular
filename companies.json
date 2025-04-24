@@ -158,5 +158,13 @@
     ],
     "careerSite": "https://techholding.co/careers",
     "workMode": "On-Site"
+  },
+  {
+    "name": "Reliance Industries Ltd",
+    "techStack": ["Angular", "Node.js", "Azure DevOps", "MySQL", "MongoDB", ".NET"],
+    "careerSite": "https://www.ril.com/careers",
+    "workMode": "Work From Office",
+    "product": "Enterprise-level in-house products",
+    "location": "Navi Mumbai"
   }
 ]
