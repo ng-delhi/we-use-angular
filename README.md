@@ -112,6 +112,10 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://techholding.co/careers
 - **Work Mode**: On-Site
 
+### **SBS**
+- **Tech Stack**: Angular
+- **Career Site**: https://sbs-software.com/join-us/
+- **Work Mode**: Hybrid
 
 ## ✨ How to contribute
 
