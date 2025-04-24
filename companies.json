@@ -158,5 +158,18 @@
     ],
     "careerSite": "https://techholding.co/careers",
     "workMode": "On-Site"
+  },
+  {
+    "name": "Cloud Solutions International",
+    "techStack": [
+      "Angular",
+      "Java",
+      "Postgres DB",
+      "Oracle DB"
+      "Mongo DB",
+      "NX"
+    ],
+    "careerSite": "https://cloudsolutions.lk/join-us/#we-are-hiring-section",
+    "workMode": "Hybrid"
   }
 ]
