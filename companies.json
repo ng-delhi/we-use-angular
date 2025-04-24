@@ -158,5 +158,12 @@
     ],
     "careerSite": "https://techholding.co/careers",
     "workMode": "On-Site"
+  },
+  {
+    "name": "Unit4",
+    "techStack": ["Angular", "Node.js", "TypeScript", "JavaScript", "RxJs"],
+    "careerSite": "https://careers.unit4.com/jobs?name=&location_country=All&department_id=8086448",
+    "workMode": "Remote",
+    "product": "Enterprise resource planning (ERP) Solutions"
   }
 ]
