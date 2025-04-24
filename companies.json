@@ -158,5 +158,13 @@
     ],
     "careerSite": "https://techholding.co/careers",
     "workMode": "On-Site"
+  },
+  {
+    "name": "SBS",
+    "techStack": [
+      "Angular"
+    ],
+    "careerSite": "https://sbs-software.com/join-us/",
+    "workMode": "Hybrid"
   }
 ]
