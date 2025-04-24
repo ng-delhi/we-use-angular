@@ -112,6 +112,10 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://techholding.co/careers
 - **Work Mode**: On-Site
 
+###  **Cloud Solutions International**
+- **Tech Stack**: Angular, Java, Postgres DB, Oracle DB, Mongo DB, NX
+- **Career Site**: https://techholding.co/careers](https://cloudsolutions.lk/join-us/#we-are-hiring-section
+- **Work Mode**: Hybrid
 
 ## ✨ How to contribute
 
