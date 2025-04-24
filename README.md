@@ -121,39 +121,48 @@ Below is a list of companies using Angular, along with their tech stacks and car
 
 We’d love your input! You can contribute in two ways:
 
-### 📝 Method 1: GitHub PR
+### 🚀 Method 1: GitHub PR — For the Devs Who Love a Good Commit
 
-1. Fork the repo
-2. Add your company’s data in `companies.json` file (format below)
-3. Add the same entry at the end of the directory list in the readme.md
-4. Open a Pull Request
+Are you the kind of dev who speaks fluent git and lives for clean PRs? 😎
+Then this one’s for you!
 
-```json
-{
-  "name": "Example Corp",
-  "techStack": ["Angular 16", "Node.js", "PostgreSQL", "AWS"],
-  "careerSite": "https://example.com",
-  "workMode": "Remote",
-  "product": "SaaS Platform for Analytics",
-  "location": "San Francisco, CA"
-}
-```
+Here’s how to get your favorite Angular-using company on the list:
+
+- 🍴 Fork this repo and clone it locally
+
+- 🧩 Add your company to companies.json (don’t forget all the juicy details!)
+
+- 📝 Update the README.md with a new entry under the directory
+
+- 📚 Follow our [Contribution Guide](contrubute.md) to keep things neat
+
+- ✅ Open a PR with a clear commit message like:
+add(company): added awesome corp to directory
+
+Once reviewed, your contribution will go live — and your GitHub handle will shine in the 🎉 Contributors Hall of Fame at the bottom of the README!
+
+Bonus points if your PR is pixel-perfect ✨
+
+Bonus bonus if you ⭐ star the repo and share it with friends!
 
 ### 💬 Method 2: Community Submission
-If you're not comfortable with GitHub, no worries!
 
-You can submit details in our community thread or comment on our LinkedIn post.
+Not comfortable with GitHub PRs? No worries — we’ve got you covered!
+You can contribute to this directory by any of the following ways:
+- 📥 Comment on our community discussion thread
+- 💬 Write a post tagging [NgDelhi](https://www.linkedin.com/company/ng-delhi/) on LinkedIn
+- 💬 Reply to our LinkedIn announcement posts
+- 🐛 Create a GitHub Issue with the company details — and our maintainers will add it for you!
 
-Please share:
+#### 📋 Please include:
+- ✅ Company Name
+- 🧱 Tech Stack (Frontend + Backend + DB + Hosting, etc.)
+- 🌐 Website (if any)
+- 🏢 Work Mode (On-Site / Remote / Hybrid)
+- 📦 Product (optional)
+- 📍 Location (optional)
 
-- Company Name
-- Tech Stack (Frontend + Backend + DB + Hosting, etc.)
-- Website (if any)
-- Work Mode
-- Product (optional)
-- Location (optional)
-
-We’ll add it for you and credit your name or social handle to the contributors list!
+We’ll review and add it to the list — and you’ll be credited in the contributors section with your name or social handle!
 
 ### 🙌 Credits
 This project is made possible by YOU — the amazing Angular community.
