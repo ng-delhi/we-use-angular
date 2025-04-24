@@ -158,5 +158,12 @@
     ],
     "careerSite": "https://techholding.co/careers",
     "workMode": "On-Site"
+  },
+  {
+    "name": "Henkel",
+    "techStack": ["Angular 19", "TypeScript", "Module Federation"],
+    "careerSite": "https://www.henkel.com/careers",
+    "workMode": "On-Site",
+    "location": ["Germany", "India", "China"]
   }
 ]
