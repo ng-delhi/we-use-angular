@@ -1,4 +1,4 @@
-import { Component, inject, signal } from "@angular/core";
+import { ChangeDetectionStrategy, Component, inject, signal } from "@angular/core";
 import { ThemeService } from "../services/theme";
 
 @Component({
@@ -10,6 +10,7 @@ import { ThemeService } from "../services/theme";
       </p>
     </footer>
   `,
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class Footer {
   readonly currentYear = signal(new Date().getFullYear());

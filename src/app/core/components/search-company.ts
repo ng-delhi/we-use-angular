@@ -1,4 +1,4 @@
-import { Component, model } from "@angular/core";
+import { ChangeDetectionStrategy, Component, model } from "@angular/core";
 
 @Component({
   selector: "search-company",
@@ -18,6 +18,7 @@ import { Component, model } from "@angular/core";
       />
     </section>
   `,
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class SearchCompany {
   searchQuery = model('');
