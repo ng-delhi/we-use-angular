@@ -1,4 +1,4 @@
-import { Component, inject } from "@angular/core";
+import { ChangeDetectionStrategy, Component, inject } from "@angular/core";
 import { ThemeService } from "../services/theme";
 
 @Component({
@@ -16,6 +16,7 @@ import { ThemeService } from "../services/theme";
       </button>
     </header>
   `,
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class Header {
   readonly themeService = inject(ThemeService);

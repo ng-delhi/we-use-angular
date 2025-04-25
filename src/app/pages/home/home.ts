@@ -1,4 +1,4 @@
-import { Component, computed, resource, signal } from "@angular/core";
+import { ChangeDetectionStrategy, Component, computed, resource, signal } from "@angular/core";
 import { CompanyCardComponent } from "../../core/components/company-card";
 import { Company } from "../../core/types/company";
 import { SearchCompany } from "../../core/components/search-company";
@@ -12,8 +12,8 @@ import { SearchCompany } from "../../core/components/search-company";
     }
     </section>
   `,
-  styles: ``,
   imports: [CompanyCardComponent, SearchCompany],
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export default class Home {
   companies = resource<Company[], unknown>({
