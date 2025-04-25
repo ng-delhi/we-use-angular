@@ -87,5 +87,7 @@ We proudly credit all community members who contribute entries, edits, or feedba
 [<img src="https://avatars.githubusercontent.com/u/74976438" width="70px;"/>](https://github.com/vamshi-ui/)
 [<img src="https://avatars.githubusercontent.com/u/64941442" width="70px;"/>](https://github.com/KingsleyAmankwah/)
 [<img src="https://avatars.githubusercontent.com/u/48760089" width="70px;"/>](https://github.com/Muzummil/)
+[<img src="https://avatars.githubusercontent.com/u/36048341" width="70px;"/>](https://github.com/AyushiRohela/)
+[<img src="https://avatars.githubusercontent.com/u/96347576" width="70px;"/>](https://github.com/adi-ray/)
 
 Want to see your name here? Start contributing!
