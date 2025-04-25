@@ -43,7 +43,7 @@ Here’s how to get your favorite Angular-using company on the list:
 
 - 📝 Update the README.md with a new entry under the directory
 
-- 📚 Follow our [Contribution Guide](contrubute.md) to keep things neat
+- 📚 Follow our [Contribution Guide](contribute.md) to keep things neat
 
 - ✅ Open a PR with a clear commit message like:
 add(company): added awesome corp to directory
