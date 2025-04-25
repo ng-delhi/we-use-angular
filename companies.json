@@ -165,5 +165,13 @@
     "careerSite": "https://www.henkel.com/careers",
     "workMode": "On-Site",
     "location": ["Germany", "India", "China"]
+  },
+  {
+    "name": "SBS",
+    "techStack": [
+      "Angular"
+    ],
+    "careerSite": "https://sbs-software.com/join-us/",
+    "workMode": "Hybrid"
   }
 ]
