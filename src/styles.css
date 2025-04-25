@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+@layer utilities {
+
+  .cua-ui {
+    @apply w-full flex flex-col min-h-screen transition-colors duration-200 ease-in-out dark:bg-[#02040a] bg-white text-[#282828] dark:text-[#e1e1e1]
+  }
+
+  .main {
+    @apply px-8 pt-32 pb-8 mx-auto my-0 max-w-[1200px] flex-1;
+  }
+
+  .header {
+    @apply flex fixed inset-x-0 top-0 justify-between items-center px-6 py-2 border-b border-gray-200 dark:border-gray-700 shadow-sm backdrop-blur-[10px] z-[1030];
+  }
+
+  .footer {
+    @apply flex justify-center items-center px-6 py-4 border-t border-gray-200 dark:border-gray-700;
+  }
+
+  .theme-btn {
+    @apply flex justify-center items-center p-2 bg-gray-100 rounded-full transition-colors duration-200 size-10 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700
+  }
+}
