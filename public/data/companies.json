@@ -186,6 +186,62 @@
     "workMode": "Hybrid"
   },
   {
+    "name": "Reliance Industries Ltd",
+    "techStack": [
+      "Angular",
+      "Node.js",
+      "Azure DevOps",
+      "MySQL",
+      "MongoDB",
+      ".NET"
+    ],
+    "careerSite": "https://www.ril.com/careers",
+    "workMode": "Work From Office",
+    "product": "Enterprise-level in-house products",
+    "location": "Navi Mumbai"
+  },
+  {
+    "name": "Henkel",
+    "techStack": [
+      "Angular 19",
+      "TypeScript",
+      "Module Federation"
+    ],
+    "careerSite": "https://www.henkel.com/careers",
+    "workMode": "On-Site",
+    "location": [
+      "Germany",
+      "India",
+      "China"
+    ]
+  },
+  {
+    "name": "Unit4",
+    "techStack": [
+      "Angular",
+      "Node.js",
+      "TypeScript",
+      "JavaScript",
+      "RxJs"
+    ],
+    "careerSite": "https://careers.unit4.com/jobs?name=&location_country=All&department_id=8086448",
+    "workMode": "Remote",
+    "product": "Enterprise resource planning (ERP) Solutions"
+  },
+  {
+    "name": "Cloud Solutions International",
+    "techStack": [
+      "Angular",
+      "Java",
+      "Postgres DB",
+      "Oracle DB",
+      "Mongo DB",
+      "NX"
+    ],
+    "careerSite": "https://cloudsolutions.lk/join-us/#we-are-hiring-section",
+    "workMode": "Hybrid"
+  },
+  {
     "name": "WatchGuard Technologies",
     "techStack": [
       "Angular",

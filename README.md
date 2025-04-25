@@ -43,7 +43,7 @@ Here’s how to get your favorite Angular-using company on the list:
 
 - 📝 Update the README.md with a new entry under the directory
 
-- 📚 Follow our [Contribution Guide](contrubute.md) to keep things neat
+- 📚 Follow our [Contribution Guide](contribute.md) to keep things neat
 
 - ✅ Open a PR with a clear commit message like:
 add(company): added awesome corp to directory
@@ -83,5 +83,11 @@ We proudly credit all community members who contribute entries, edits, or feedba
 [<img src="https://avatars.githubusercontent.com/u/68898731" width="70px;"/>](https://github.com/howdysuraj/)
 [<img src="https://avatars.githubusercontent.com/u/6235979" width="70px;"/>](https://github.com/HimanshuGoel/)
 [<img src="https://avatars.githubusercontent.com/u/21971232" width="70px;"/>](https://github.com/yshashi/)
+[<img src="https://avatars.githubusercontent.com/u/23075472" width="70px;"/>](https://github.com/ansafans/)
+[<img src="https://avatars.githubusercontent.com/u/74976438" width="70px;"/>](https://github.com/vamshi-ui/)
+[<img src="https://avatars.githubusercontent.com/u/64941442" width="70px;"/>](https://github.com/KingsleyAmankwah/)
+[<img src="https://avatars.githubusercontent.com/u/48760089" width="70px;"/>](https://github.com/Muzummil/)
+[<img src="https://avatars.githubusercontent.com/u/36048341" width="70px;"/>](https://github.com/AyushiRohela/)
+[<img src="https://avatars.githubusercontent.com/u/96347576" width="70px;"/>](https://github.com/adi-ray/)
 
 Want to see your name here? Start contributing!
