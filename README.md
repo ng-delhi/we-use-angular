@@ -117,6 +117,11 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://sbs-software.com/join-us/
 - **Work Mode**: Hybrid
 
+### **Henkel**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://www.henkel.com/careers
+- **Work Mode**: On-Site
+
 ## ✨ How to contribute
 
 We’d love your input! You can contribute in two ways:
