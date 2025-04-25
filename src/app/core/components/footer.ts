@@ -6,7 +6,7 @@ import { ThemeService } from "../services/theme";
   template: `
     <footer class="footer">
       <p class="text-sm text-black dark:text-[#dbdbdb]">
-        © {{ currentYear() }} Angular Companies. All rights reserved.
+        © {{ currentYear() }} Ng Delhi. All rights reserved.
       </p>
     </footer>
   `,
