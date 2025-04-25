@@ -175,5 +175,25 @@
     "careerSite": "https://techholding.co/careers",
     "companySite": "https://techholding.co",
     "workMode": "On-Site"
+  },
+  {
+    "name": "SBS",
+    "techStack": [
+      "Angular"
+    ],
+    "careerSite": "https://sbs-software.com/join-us/",
+    "companySite": "https://sbs-software.com",
+    "workMode": "Hybrid"
+  },
+  {
+    "name": "WatchGuard Technologies",
+    "techStack": [
+      "Angular",
+      "Material",
+      "Nx"
+    ],
+    "careerSite": "https://www.watchguard.com/wgrd-careers",
+    "companySite": "https://www.watchguard.com",
+    "workMode": "On-Site"
   }
 ]
