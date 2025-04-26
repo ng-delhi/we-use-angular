@@ -1,5 +1,3 @@
-
-
 # 🌐 We Use Angular
 
 ![Angular Logo](./angular_logo.png)
@@ -15,6 +13,7 @@ A community-driven directory of companies that use **Angular** in their tech sta
 ## 📋 What does the directory include?
 
 Each entry includes:
+
 - ✅ Company Name
 - 🧱 Tech Stack (Frontend, Backend, DB, Hosting, etc.)
 - 🌍 Careers Site
@@ -46,7 +45,7 @@ Here’s how to get your favorite Angular-using company on the list:
 - 📚 Follow our [Contribution Guide](contribute.md) to keep things neat
 
 - ✅ Open a PR with a clear commit message like:
-add(company): added awesome corp to directory
+  add(company): added awesome corp to directory
 
 Once reviewed, your contribution will go live — and your GitHub handle will shine in the 🎉 Contributors Hall of Fame at the bottom of the README!
 
@@ -58,12 +57,14 @@ Bonus bonus if you ⭐ star the repo and share it with friends!
 
 Not comfortable with GitHub PRs? No worries — we’ve got you covered!
 You can contribute to this directory by any of the following ways:
+
 - 📥 Comment on our community discussion thread
 - 💬 Write a post tagging [NgDelhi](https://www.linkedin.com/company/ng-delhi/) on LinkedIn
 - 💬 Reply to our LinkedIn announcement posts
 - 🐛 Create a GitHub Issue with the company details — and our maintainers will add it for you!
 
 #### 📋 Please include:
+
 - ✅ Company Name
 - 🧱 Tech Stack (Frontend + Backend + DB + Hosting, etc.)
 - 🌐 Website (if any)
@@ -74,9 +75,11 @@ You can contribute to this directory by any of the following ways:
 We’ll review and add it to the list — and you’ll be credited in the contributors section with your name or social handle!
 
 ### 🙌 Credits
+
 This project is made possible by YOU — the amazing Angular community.
 
 ### 💖 Contributors
+
 We proudly credit all community members who contribute entries, edits, or feedback.
 
 [<img src="https://github.com/rohtashsethi.png" width="70px;"/>](https://github.com/rohtashsethi/)
