@@ -103,13 +103,13 @@ Want to see your name here? Start contributing!
 
 | Rank | Contributor | Contributions |
 |------|-------------|----------------|
-| 🥇 | [@rohtashsethi](https://github.com/rohtashsethi) | 16 |
-| 🥈 | [@ajitzero](https://github.com/ajitzero) | 2 |
-| 🥉 | [@yshashi](https://github.com/yshashi) | 2 |
-| 4 | [@Saverio0134](https://github.com/Saverio0134) | 2 |
-| 5 | [@adi-ray](https://github.com/adi-ray) | 1 |
-| 6 | [@AyushiRohela](https://github.com/AyushiRohela) | 1 |
-| 7 | [@HimanshuGoel](https://github.com/HimanshuGoel) | 1 |
-| 8 | [@kristof-low](https://github.com/kristof-low) | 1 |
+| 🥇 | [rohtashsethi](https://github.com/rohtashsethi) | 16 |
+| 🥈 | [ajitzero](https://github.com/ajitzero) | 2 |
+| 🥉 | [yshashi](https://github.com/yshashi) | 2 |
+| 4 | [Saverio0134](https://github.com/Saverio0134) | 2 |
+| 5 | [adi-ray](https://github.com/adi-ray) | 1 |
+| 6 | [AyushiRohela](https://github.com/AyushiRohela) | 1 |
+| 7 | [HimanshuGoel](https://github.com/HimanshuGoel) | 1 |
+| 8 | [kristof-low](https://github.com/kristof-low) | 1 |
 
 <!-- leaderboard-end -->
