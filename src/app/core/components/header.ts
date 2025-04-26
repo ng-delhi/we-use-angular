@@ -1,9 +1,8 @@
-import { ChangeDetectionStrategy, Component, inject } from "@angular/core";
-import { ThemeService } from "../services/theme";
+import { ChangeDetectionStrategy, Component, inject } from '@angular/core';
+import { ThemeService } from '../services/theme';
 
 @Component({
-  selector: "cua-header",
-  standalone: true,
+  selector: 'cua-header',
   template: `
     <header class="header">
       <div class="flex gap-3 items-center">
@@ -12,7 +11,7 @@ import { ThemeService } from "../services/theme";
       </div>
 
       <button (click)="themeService.toggleTheme()" class="theme-btn">
-        <i class="fa-solid {{themeService.isDarkMode() ? 'fa-moon' : 'fa-sun'}}"></i>
+        <i class="fa-solid {{ themeService.isDarkMode() ? 'fa-moon' : 'fa-sun' }}"></i>
       </button>
     </header>
   `,

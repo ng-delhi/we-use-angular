@@ -26,7 +26,7 @@ Thank you for considering contributing to the Angular Companies Directory!
 - 📚 Follow our [Contribution Guide](contribute.md) to keep things neat
 
 - ✅ Open a PR with a clear commit message like:
-add(company): added awesome corp to directory
+  add(company): added awesome corp to directory
 
 ## 📦 Directory Format
 
@@ -54,6 +54,7 @@ add(company): added awesome corp to directory
 ```
 
 ### 🎯 Types:
+
 - **add**: Add new entries or content
 - **update**: Modify existing content
 - **fix**: Fix typos, broken links, or formatting issues
@@ -61,12 +62,14 @@ add(company): added awesome corp to directory
 - **chore**: Non-functional updates like file structure or config
 
 ### 🔍 Scopes:
+
 - **company**: For changes in companies.json
 - **readme**: For changes in README.md
 - **credits**: For changes to contributors/maintainers
 - **guidelines**: For contributing rules or commit formats
 
 ### 💡 Examples:
+
 - add(company): added spotdraft to companies.json
 - update(company): updated work mode for nagarro
 - fix(company): fixed typo in backbase tech stack

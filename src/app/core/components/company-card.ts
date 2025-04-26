@@ -1,9 +1,9 @@
-import { ChangeDetectionStrategy, Component, inject, input } from "@angular/core";
-import { Company } from "../types/company";
-import { ThemeService } from "../services/theme";
+import { ChangeDetectionStrategy, Component, inject, input } from '@angular/core';
+import { Company } from '../types/company';
+import { ThemeService } from '../services/theme';
 
 @Component({
-  selector: "company-card",
+  selector: 'company-card',
   template: `
   <article
   class="flex flex-col justify-start items-start p-6 mx-auto my-0 w-full rounded-lg border border-gray-200 dark:border-gray-700 transition-all duration-300 ease-in-out max-w-[360px] flex-shrink-0 shadow-md hover:shadow-lg dark:bg-[#151b23] transform hover:scale-105 hover:shadow-2xl"

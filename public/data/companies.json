@@ -1,200 +1,133 @@
 [
   {
     "name": "Minoan",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://minoan.com",
     "companySite": "https://minoan.com",
     "workMode": "OnSite"
   },
   {
     "name": "Fyle",
-    "techStack": [
-      "Angular",
-      "TypeScript",
-      "AngularJS",
-      "Nx"
-    ],
+    "techStack": ["Angular", "TypeScript", "AngularJS", "Nx"],
     "careerSite": "https://www.fylehq.com/company/team/join",
     "companySite": "https://www.fylehq.com",
     "workMode": "Remote"
   },
   {
     "name": "Backbase",
-    "techStack": [
-      "Angular",
-      "TypeScript",
-      "Nx"
-    ],
+    "techStack": ["Angular", "TypeScript", "Nx"],
     "careerSite": "https://www.backbase.com/careers/jobs",
     "companySite": "https://www.backbase.com",
     "workMode": "Hybrid"
   },
   {
     "name": "Nagarro",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://www.nagarro.com/en/careers",
     "companySite": "https://www.nagarro.com",
     "workMode": "Hybrid / Remote"
   },
   {
     "name": "NetCore",
-    "techStack": [
-      "Angular",
-      "TypeScript",
-      "PHP"
-    ],
+    "techStack": ["Angular", "TypeScript", "PHP"],
     "careerSite": "https://netcorecloud.com/careers-list?job_category=engineering",
     "companySite": "https://netcorecloud.com",
     "workMode": "Hybrid / Remote"
   },
   {
     "name": "ZoomInfo",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://www.zoominfo.com/careers#jobs",
     "companySite": "https://www.zoominfo.com",
     "workMode": "On-Site"
   },
   {
     "name": "HashedIn By Deloitte",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://hashedin.com/careers/#explore-opportunities",
     "companySite": "https://hashedin.com",
     "workMode": "Hybrid"
   },
   {
     "name": "Thomson Reuters",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://careers.thomsonreuters.com/us/en/search-results",
     "companySite": "https://careers.thomsonreuters.com",
     "workMode": "On-Site/Hybrid"
   },
   {
     "name": "Roche",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://careers.roche.com/global/en/india-jobs",
     "companySite": "https://careers.roche.com",
     "workMode": "On-Site/Hybrid"
   },
   {
     "name": "SpotDraft",
-    "techStack": [
-      "Angular",
-      "TypeScript",
-      "Nx"
-    ],
+    "techStack": ["Angular", "TypeScript", "Nx"],
     "careerSite": "https://www.spotdraft.com/careers",
     "companySite": "https://www.spotdraft.com",
     "workMode": "On-Site"
   },
   {
     "name": "Siemens",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://jobs.siemens.com/careers",
     "companySite": "https://jobs.siemens.com",
     "workMode": "On-Site"
   },
   {
     "name": "Locobuzz",
-    "techStack": [
-      "Angular",
-      "TypeScript",
-      "Material",
-      "NX"
-    ],
+    "techStack": ["Angular", "TypeScript", "Material", "NX"],
     "careerSite": "https://locobuzz.com/",
     "companySite": "https://locobuzz.com",
     "workMode": "On-Site"
   },
   {
     "name": "Simcorp",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://www.simcorp.com/about-us/career",
     "companySite": "https://www.simcorp.com",
     "workMode": "Hybrid"
   },
   {
     "name": "CareMonitor",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://caremonitor.com.au/",
     "companySite": "https://caremonitor.com.au/",
     "workMode": "Remote"
   },
   {
     "name": "Synoptek",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://careers.synoptek.com/",
     "companySite": "https://careers.synoptek.com/",
     "workMode": "Remote"
   },
   {
     "name": "Ascendion",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://ascendion.com/careers/india/",
     "companySite": "https://ascendion.com",
     "workMode": "Remote"
   },
   {
     "name": "Tech Holding",
-    "techStack": [
-      "Angular",
-      "TypeScript"
-    ],
+    "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://techholding.co/careers",
     "companySite": "https://techholding.co",
     "workMode": "On-Site"
   },
   {
     "name": "SBS",
-    "techStack": [
-      "Angular"
-    ],
+    "techStack": ["Angular"],
     "careerSite": "https://sbs-software.com/join-us/",
     "companySite": "https://sbs-software.com",
     "workMode": "Hybrid"
   },
   {
     "name": "Reliance Industries Ltd",
-    "techStack": [
-      "Angular",
-      "Node.js",
-      "Azure DevOps",
-      "MySQL",
-      "MongoDB",
-      ".NET"
-    ],
+    "techStack": ["Angular", "Node.js", "Azure DevOps", "MySQL", "MongoDB", ".NET"],
     "careerSite": "https://www.ril.com/careers",
     "workMode": "Work From Office",
     "product": "Enterprise-level in-house products",
@@ -202,52 +135,27 @@
   },
   {
     "name": "Henkel",
-    "techStack": [
-      "Angular 19",
-      "TypeScript",
-      "Module Federation"
-    ],
+    "techStack": ["Angular 19", "TypeScript", "Module Federation"],
     "careerSite": "https://www.henkel.com/careers",
     "workMode": "On-Site",
-    "location": [
-      "Germany",
-      "India",
-      "China"
-    ]
+    "location": ["Germany", "India", "China"]
   },
   {
     "name": "Unit4",
-    "techStack": [
-      "Angular",
-      "Node.js",
-      "TypeScript",
-      "JavaScript",
-      "RxJs"
-    ],
+    "techStack": ["Angular", "Node.js", "TypeScript", "JavaScript", "RxJs"],
     "careerSite": "https://careers.unit4.com/jobs?name=&location_country=All&department_id=8086448",
     "workMode": "Remote",
     "product": "Enterprise resource planning (ERP) Solutions"
   },
   {
     "name": "Cloud Solutions International",
-    "techStack": [
-      "Angular",
-      "Java",
-      "Postgres DB",
-      "Oracle DB",
-      "Mongo DB",
-      "NX"
-    ],
+    "techStack": ["Angular", "Java", "Postgres DB", "Oracle DB", "Mongo DB", "NX"],
     "careerSite": "https://cloudsolutions.lk/join-us/#we-are-hiring-section",
     "workMode": "Hybrid"
   },
   {
     "name": "WatchGuard Technologies",
-    "techStack": [
-      "Angular",
-      "Material",
-      "Nx"
-    ],
+    "techStack": ["Angular", "Material", "Nx"],
     "careerSite": "https://www.watchguard.com/wgrd-careers",
     "companySite": "https://www.watchguard.com",
     "workMode": "On-Site"

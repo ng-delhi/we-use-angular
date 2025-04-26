@@ -1,8 +1,8 @@
-import { ChangeDetectionStrategy, Component, inject, signal } from "@angular/core";
-import { ThemeService } from "../services/theme";
+import { ChangeDetectionStrategy, Component, inject, signal } from '@angular/core';
+import { ThemeService } from '../services/theme';
 
 @Component({
-  selector: "cua-footer",
+  selector: 'cua-footer',
   template: `
     <footer class="footer">
       <p class="text-sm text-black dark:text-[#dbdbdb]">

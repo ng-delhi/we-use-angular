@@ -1,7 +1,7 @@
-import { ChangeDetectionStrategy, Component, computed, resource, signal } from "@angular/core";
-import { CompanyCardComponent } from "../../core/components/company-card";
-import { Company } from "../../core/types/company";
-import { SearchCompany } from "../../core/components/search-company";
+import { ChangeDetectionStrategy, Component, computed, resource, signal } from '@angular/core';
+import { CompanyCardComponent } from '../../core/components/company-card';
+import { Company } from '../../core/types/company';
+import { SearchCompany } from '../../core/components/search-company';
 @Component({
   selector: 'home',
   template: `
@@ -21,13 +21,13 @@ export default class Home {
       const response = await fetch('/data/companies.json');
       return response.json();
     },
-    defaultValue: []
-  })
+    defaultValue: [],
+  });
   filteredCompanies = computed(() => {
-    return this.companies.value().filter(company => {
+    return this.companies.value().filter((company) => {
       return company.name.toLowerCase().includes(this.searchQuery().toLowerCase());
     });
-  })
+  });
   searchQuery = signal('');
 
   onSearchQueryChange(searchQuery: string) {
