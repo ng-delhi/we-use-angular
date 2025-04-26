@@ -159,5 +159,19 @@
     "careerSite": "https://www.watchguard.com/wgrd-careers",
     "companySite": "https://www.watchguard.com",
     "workMode": "On-Site"
+  },
+  {
+    "name": "Keka HR",
+    "techStack": ["Angular", ".NET Core", "C#"],
+    "careerSite": "https://www.keka.com/careers",
+    "companySite": "https://www.keka.com/",
+    "workMode": "On-Site"
+  },
+  {
+    "name": "Fortinet",
+    "techStack": ["Angular", "Nx", "Python", "Django", "Java", "Golang"],
+    "careerSite": "https://www.fortinet.com/corporate/careers",
+    "companySite": "https://www.fortinet.com/",
+    "workMode": "On-Site"
   }
 ]
