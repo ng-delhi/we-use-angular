@@ -1,10 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
-@import "tailwindcss";
-@custom-variant dark (&:where(.dark, .dark *));
-@layer utilities {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+/* Tumhara baaki ka custom CSS yahan hona chahiye */
+@layer utilities {
   .cua-ui {
-    @apply w-full flex flex-col min-h-screen transition-colors duration-200 ease-in-out dark:bg-[#02040a] bg-white text-[#282828] dark:text-[#e1e1e1]
+    @apply w-full flex flex-col min-h-screen transition-colors duration-200 ease-in-out dark:bg-[#02040a] bg-white text-[#282828] dark:text-[#e1e1e1];
   }
 
   .main {
@@ -20,6 +21,6 @@
   }
 
   .theme-btn {
-    @apply flex justify-center items-center p-2 bg-gray-100 rounded-full transition-colors duration-200 size-10 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700
+    @apply flex justify-center items-center p-2 bg-gray-100 rounded-full transition-colors duration-200 size-10 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700;
   }
 }

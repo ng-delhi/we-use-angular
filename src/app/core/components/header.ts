@@ -8,7 +8,7 @@ import { ThemeService } from "../services/theme";
     <header class="header">
       <div class="flex gap-3 items-center">
         <img alt="Angular Logo" src="/cua.webp" class="object-cover overflow-hidden w-10 h-10 aspect-square" />
-        <h1 class="text-2xl font-semibold dark:text-white">We Use Angular</h1>
+        <h1 class="text-2xl font-semibold dark:text-white max-xs:text-[1rem]">We Use Angular</h1>
       </div>
 
       <button (click)="themeService.toggleTheme()" class="theme-btn">

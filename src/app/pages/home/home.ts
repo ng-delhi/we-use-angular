@@ -6,10 +6,10 @@ import { SearchCompany } from "../../core/components/search-company";
   selector: 'home',
   template: `
     <search-company (searchQueryChange)="onSearchQueryChange($event)" />
-    <section class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+    <section class="grid gap-8 grid-cols-3 max-lg:grid-cols-2 max-sm:!grid-cols-1">
     @for (company of filteredCompanies(); track company.name) {
       <company-card [company]="company" />
-    }
+    } 
     </section>
   `,
   imports: [CompanyCardComponent, SearchCompany],

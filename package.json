@@ -25,7 +25,6 @@
     "@tailwindcss/postcss": "^4.1.4",
     "postcss": "^8.5.3",
     "rxjs": "~7.8.0",
-    "tailwindcss": "^4.1.4",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
@@ -42,6 +41,7 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "lint-staged": "^15.5.1",
     "prettier": "^3.5.3",
+    "tailwindcss": "^3.4.3",
     "typescript": "~5.7.2"
   }
 }
