@@ -7,8 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "format": "prettier --write \"src/**/*.{ts,html,scss,json}\"",
-    "check-format": "prettier --check \"src/**/*.{ts,html,scss,json}\""
+    "format": "prettier --write \"./**/*.{ts,html,scss,json}\"",
+    "check-format": "prettier --check \"./**/*.{ts,html,scss,json}\""
   },
   "lint-staged": {
     "*.{ts,html,scss,json}": "prettier --write"

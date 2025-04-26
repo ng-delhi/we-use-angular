@@ -1,11 +1,11 @@
-import { DOCUMENT } from "@angular/common";
-import { Injectable, computed, effect, inject, signal } from "@angular/core";
-import { CUA_THEME_KEY } from "../../app.constants";
+import { DOCUMENT } from '@angular/common';
+import { Injectable, computed, effect, inject, signal } from '@angular/core';
+import { CUA_THEME_KEY } from '../../app.constants';
 
 type Theme = 'light' | 'dark';
 
 @Injectable({
-  providedIn: "root",
+  providedIn: 'root',
 })
 export class ThemeService {
   private document = inject(DOCUMENT);
@@ -40,6 +40,6 @@ export class ThemeService {
   }
 
   toggleTheme(): void {
-    this.darkMode.update(current => !current);
+    this.darkMode.update((current) => !current);
   }
 }

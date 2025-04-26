@@ -1,7 +1,7 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
-import { Header } from "./core/components/header";
-import { Footer } from "./core/components/footer";
-import { RouterOutlet } from "@angular/router";
+import { Header } from './core/components/header';
+import { Footer } from './core/components/footer';
+import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -14,9 +14,8 @@ import { RouterOutlet } from "@angular/router";
     <cua-footer />
   `,
   host: {
-    class: 'cua-ui'
+    class: 'cua-ui',
   },
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class AppComponent {
-}
+export class AppComponent {}

@@ -4,4 +4,4 @@ export type Company = {
   careerSite: string;
   workMode: string;
   companySite: string;
-}
+};
