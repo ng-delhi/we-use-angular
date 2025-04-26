@@ -6,7 +6,9 @@ import { SearchCompany } from '../../core/components/search-company';
   selector: 'home',
   template: `
     <search-company (searchQueryChange)="onSearchQueryChange($event)" />
-    <section class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+    <section
+      class="flex sm:flex-wrap flex-nowrap flex-col sm:flex-row justify-center gap-x-6 gap-y-8 items-stretch"
+    >
       @for (company of filteredCompanies(); track company.name) {
         <company-card [company]="company" />
       }
