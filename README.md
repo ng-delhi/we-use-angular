@@ -95,3 +95,8 @@ We proudly credit all community members who contribute entries, edits, or feedba
 [<img src="https://avatars.githubusercontent.com/u/19947758" width="70px;"/>](https://github.com/ajitzero/)
 
 Want to see your name here? Start contributing!
+
+### 🏆 Contributor Leaderboard
+
+<!-- leaderboard-start -->
+<!-- leaderboard-end -->
