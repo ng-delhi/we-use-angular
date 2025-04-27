@@ -19,4 +19,7 @@ jobs:
     steps:
       - name: Update Leaderboard
         uses: kristof-low/github-contributor-leaderboard@v1
+        with:
+          commit-message: "docs(readme): update contributor leaderboard"
+
 
