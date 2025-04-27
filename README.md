@@ -1,6 +1,6 @@
 # 🌐 We Use Angular
 
-![Angular Logo](./angular_logo.png)
+![Ng Delhi Logo](./ng-delhi-logo.png)
 
 A community-driven directory of companies that use **Angular** in their tech stack.
 
