@@ -173,5 +173,23 @@
     "careerSite": "https://www.fortinet.com/corporate/careers",
     "companySite": "https://www.fortinet.com/",
     "workMode": "On-Site"
+  },
+  {
+    "name": "Commudle",
+    "techStack": [
+      "Angular",
+      "Ruby",
+      "Rails",
+      "GoLang",
+      "Postgress",
+      "Redis",
+      "TypeScript",
+      "Nx",
+      "Docker"
+    ],
+    "careerSite": "https://www.commudle.com/",
+    "companySite": "https://www.commudle.com/",
+    "workMode": "Remote",
+    "product": "All-in-one enterprise developer community platform to build and scale developer programs globally."
   }
 ]

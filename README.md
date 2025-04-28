@@ -93,6 +93,7 @@ We proudly credit all community members who contribute entries, edits, or feedba
 [<img src="https://avatars.githubusercontent.com/u/36048341" width="70px;"/>](https://github.com/AyushiRohela/)
 [<img src="https://avatars.githubusercontent.com/u/96347576" width="70px;"/>](https://github.com/adi-ray/)
 [<img src="https://avatars.githubusercontent.com/u/19947758" width="70px;"/>](https://github.com/ajitzero/)
+[<img src="https://avatars.githubusercontent.com/u/26763175" width="70px;"/>](https://github.com/ArshdeepGrover/)
 
 Want to see your name here? Start contributing!
 
