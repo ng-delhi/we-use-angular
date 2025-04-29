@@ -21,4 +21,5 @@ jobs:
         uses: kristof-low/github-contributor-leaderboard@v1
         with:
           commit-message: "docs(readme): update contributor leaderboard"
+          use-pull-request: "true"
 
