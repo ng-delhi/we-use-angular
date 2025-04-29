@@ -83,6 +83,7 @@ This project is made possible by YOU — the amazing Angular community.
 We proudly credit all community members who contribute entries, edits, or feedback.
 
 [<img src="https://github.com/rohtashsethi.png" width="70px;"/>](https://github.com/rohtashsethi/)
+[<img src="https://avatars.githubusercontent.com/u/67048929?v=4" width="70px;"/>](https://github.com/extinctsion/)
 [<img src="https://avatars.githubusercontent.com/u/68898731" width="70px;"/>](https://github.com/howdysuraj/)
 [<img src="https://avatars.githubusercontent.com/u/6235979" width="70px;"/>](https://github.com/HimanshuGoel/)
 [<img src="https://avatars.githubusercontent.com/u/21971232" width="70px;"/>](https://github.com/yshashi/)
