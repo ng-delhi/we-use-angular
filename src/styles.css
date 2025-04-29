@@ -7,7 +7,7 @@
   }
 
   .main {
-    @apply px-8 pt-32 pb-8 mx-auto my-0 max-w-[1200px] flex-1;
+    @apply px-8 pt-32 pb-8 sm:mx-auto my-0 max-w-[1200px] flex-1;
   }
 
   .header {

@@ -1,0 +1,24 @@
+name: Update Contributor Leaderboard
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Update everyday at 00:00 UTC
+
+  workflow_dispatch: # Manually trigger the update
+
+jobs:
+  update-leaderboard:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    env:
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - name: Update Leaderboard
+        uses: kristof-low/github-contributor-leaderboard@v1
+        with:
+          commit-message: "docs(readme): update contributor leaderboard"
+
