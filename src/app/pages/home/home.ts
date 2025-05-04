@@ -28,7 +28,7 @@ export default class Home {
   filteredCompanies = computed(() => {
     return this.companies.value().filter((company) => {
       return company.name.toLowerCase().includes(this.searchQuery().toLowerCase());
-    });
+    }).sort((a,b)=> a.name > b.name ? 1 : -1);
   });
   searchQuery = signal('');
 
