@@ -191,5 +191,13 @@
     "companySite": "https://www.commudle.com/",
     "workMode": "Remote",
     "product": "All-in-one enterprise developer community platform to build and scale developer programs globally."
+  },
+  {
+    "name": "Epicor",
+    "techStack": ["Angular 19", ".Net", "Java", "python"],
+    "careerSite": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs",
+    "companySite": "https://www.epicor.com/en/",
+    "workMode": "On-Site",
+    "location": ["India", "Mexico", "USA", "Canada"]
   }
 ]
