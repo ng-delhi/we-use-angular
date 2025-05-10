@@ -100,4 +100,18 @@ Want to see your name here? Start contributing!
 ### 🏆 Contributor Leaderboard
 
 <!-- leaderboard-start -->
+
+| Rank | Contributor | Contributions |
+|:------:|:-------------:|:----------------:|
+| 🥇 | [rohtashsethi](https://github.com/rohtashsethi) | 16 |
+| 🥈 | [adi-ray](https://github.com/adi-ray) | 3 |
+| 🥉 | [kristof-low](https://github.com/kristof-low) | 3 |
+| 4 | [ajitzero](https://github.com/ajitzero) | 2 |
+| 5 | [yshashi](https://github.com/yshashi) | 2 |
+| 6 | [Saverio0134](https://github.com/Saverio0134) | 2 |
+| 7 | [3627pranav](https://github.com/3627pranav) | 1 |
+| 8 | [ArshdeepGrover](https://github.com/ArshdeepGrover) | 1 |
+| 9 | [AyushiRohela](https://github.com/AyushiRohela) | 1 |
+| 10 | [HimanshuGoel](https://github.com/HimanshuGoel) | 1 |
+
 <!-- leaderboard-end -->
