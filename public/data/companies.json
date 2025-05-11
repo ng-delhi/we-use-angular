@@ -199,5 +199,43 @@
     "companySite": "https://www.epicor.com/en/",
     "workMode": "On-Site",
     "location": ["India", "Mexico", "USA", "Canada"]
+  },
+  {
+    "name": "Taazaa inc",
+    "techStack": ["Angular", "React", "Nx", "Storybooks", ".NET Core","Postgres DB","Java" ],
+    "careerSite": "https://taazaa.keka.com/careers/",
+    "companySite": "https://www.taazaa.com/",
+    "workMode": "Hybrid",
+    "location": "Noida"
+  },
+  {
+    "name": "Secureworks (A Sophos Company)",
+    "techStack": ["Angular", "Nx", "Nrgx Signals Store", "Storybooks", "GoLang", "GraphQL", "Microfrontend"],
+    "careerSite": "https://www.sophos.com/en-us/careers",
+    "companySite": "https://www.secureworks.com/",
+    "workMode": "Remote"
+  },
+  {
+    "name": "Sophos",
+    "techStack": ["Angular", "Nx", "React", "Java", "Microfrontend"],
+    "careerSite": "https://www.sophos.com/en-us/careers",
+    "companySite": "https://www.sophos.com/en-us",
+    "workMode": "Remote"
+  },
+  {
+    "name": "Thales",
+    "techStack": ["Angular", "Java", ".NET", "MySQL", "Postgres DB", "Mongo DB", "Azure"],
+    "careerSite": "https://careers.thalesgroup.com/global/en",
+    "companySite": "https://www.thalesgroup.com/en",
+    "workMode": "Hybrid",
+    "location": ["Noida", "Bangalore", "Hyderabad", "Gurgram"]
+  },
+  {
+    "name": "Deutsche Telekom Digital Labs",
+    "techStack": ["Angular", "PWA", "Node.js", "Microservices", "TDD"],
+    "careerSite": "https://dtdl.in/joinus",
+    "companySite": "https://dtdl.in/home",
+    "workMode": "Hybrid",
+    "location": "Gurgram"
   }
 ]
