@@ -202,7 +202,7 @@
   },
   {
     "name": "Taazaa inc",
-    "techStack": ["Angular", "React", "Nx", "Storybooks", ".NET Core","Postgres DB","Java" ],
+    "techStack": ["Angular", "React", "Nx", "Storybooks", ".NET Core", "Postgres DB", "Java"],
     "careerSite": "https://taazaa.keka.com/careers/",
     "companySite": "https://www.taazaa.com/",
     "workMode": "Hybrid",
@@ -210,7 +210,15 @@
   },
   {
     "name": "Secureworks (A Sophos Company)",
-    "techStack": ["Angular", "Nx", "Nrgx Signals Store", "Storybooks", "GoLang", "GraphQL", "Microfrontend"],
+    "techStack": [
+      "Angular",
+      "Nx",
+      "Nrgx Signals Store",
+      "Storybooks",
+      "GoLang",
+      "GraphQL",
+      "Microfrontend"
+    ],
     "careerSite": "https://www.sophos.com/en-us/careers",
     "companySite": "https://www.secureworks.com/",
     "workMode": "Remote"
