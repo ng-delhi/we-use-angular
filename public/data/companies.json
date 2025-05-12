@@ -245,5 +245,13 @@
     "companySite": "https://dtdl.in/home",
     "workMode": "Hybrid",
     "location": "Gurgram"
+  },
+  {
+    "name": "Coditas Solutions LLP",
+    "techStack": ["Angular", "TypeScript", "NgRx", "Node.js"],
+    "careerSite": "https://coditas.com/careers",
+    "companySite": "https://coditas.com",
+    "workMode": "Hybrid",
+    "location": ["India,Pune"]
   }
 ]
