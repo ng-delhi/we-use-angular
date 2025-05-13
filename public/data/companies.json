@@ -245,5 +245,21 @@
     "companySite": "https://dtdl.in/home",
     "workMode": "Hybrid",
     "location": "Gurgram"
+  },
+  {
+    "name": "Sonora Software Pvt Ltd",
+    "techStack": ["Angular", "React Js", "Sharepoint", ".NET Core", "C#"],
+    "careerSite": "https://www.sonorasoftware.com/careers.html",
+    "companySite": "https://www.sonorasoftware.com/",
+    "workMode": "Hybrid",
+    "location": "Pune"
+  },
+   {
+    "name": "Protos Software Pvt Ltd",
+    "techStack": ["Angular", "React Js", "SPFX", "Sharepoint", ".NET Core", "C#"],
+    "careerSite": "https://www.protossoft.com/careers/",
+    "companySite": "https://www.protossoft.com/",
+    "workMode": "Hybrid",
+    "location": "Pune"
   }
 ]
