@@ -1,6 +1,7 @@
 import { ChangeDetectionStrategy, Component, inject, input } from '@angular/core';
 import { Company } from '../types/company';
 import { ThemeService } from '../services/theme';
+import { TECH_ICON_CLASSES } from '../types/techiconmapping';
 
 @Component({
   selector: 'company-card',
@@ -18,6 +19,7 @@ import { ThemeService } from '../services/theme';
               <span
                 class="px-2 py-1 text-xs font-medium text-gray-800 bg-gray-100 rounded-xl dark:bg-gray-800 dark:text-gray-200"
               >
+                <i [class]="getIconsClass(tech)"></i>
                 {{ tech }}
               </span>
             }
@@ -57,4 +59,9 @@ import { ThemeService } from '../services/theme';
 export class CompanyCardComponent {
   company = input.required<Company>();
   readonly themeService = inject(ThemeService);
+
+  getIconsClass(tech: string): string {
+    return TECH_ICON_CLASSES[tech.toLowerCase()] || '';
+  }
+
 }
