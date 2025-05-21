@@ -63,5 +63,4 @@ export class CompanyCardComponent {
   getIconsClass(tech: string): string {
     return TECH_ICON_CLASSES[tech.toLowerCase()] || '';
   }
-
 }
