@@ -15,7 +15,7 @@ import { ThemeService } from '../services/theme';
       </div>
 
       <button (click)="themeService.toggleTheme()" class="theme-btn">
-        <i class="fa-solid {{ themeService.isDarkMode() ? 'fa-moon' : 'fa-sun' }}"></i>
+        <i class="{{ themeService.isDarkMode() ? 'ri-moon-fill' : 'ri-sun-fill' }}"></i>
       </button>
     </header>
   `,
