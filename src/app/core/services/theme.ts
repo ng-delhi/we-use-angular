@@ -1,4 +1,3 @@
-
 import { Injectable, computed, effect, inject, signal, DOCUMENT } from '@angular/core';
 import { CUA_THEME_KEY } from '../../app.constants';
 
