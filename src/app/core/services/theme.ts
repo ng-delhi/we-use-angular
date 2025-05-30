@@ -1,5 +1,4 @@
-import { DOCUMENT } from '@angular/common';
-import { Injectable, computed, effect, inject, signal } from '@angular/core';
+import { Injectable, computed, effect, inject, signal, DOCUMENT } from '@angular/core';
 import { CUA_THEME_KEY } from '../../app.constants';
 
 type Theme = 'light' | 'dark';
