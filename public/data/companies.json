@@ -1,5 +1,12 @@
 [
   {
+    "name": "ClickUp",
+    "techStack": ["Angular", "TypeScript", "NX", "Node.js", "Express", "Nest.JS"],
+    "careerSite": "https://clickup.com/careers",
+    "companySite": "https://clickup.com",
+    "workMode": "Hybrid / Remote"
+  },
+  {
     "name": "Minoan",
     "techStack": ["Angular", "TypeScript"],
     "careerSite": "https://minoan.com",
